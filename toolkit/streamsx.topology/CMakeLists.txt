@@ -1,0 +1,1 @@
+DockerBuild(streamsx.topology)
